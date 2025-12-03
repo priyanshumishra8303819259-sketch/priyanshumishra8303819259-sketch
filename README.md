@@ -1,14 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm **Pritanshu Mishra**
 
-**priyanshumishra8303819259-sketch/priyanshumishra8303819259-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 First Year Student • Lovely Professional University
 
-Here are some ideas to get you started:
+### 💻 Learning Python • HTML • CSS • JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 About Me
+
+I'm a fresher at **LPU** exploring the world of programming and development.
+I enjoy building small projects, learning new concepts, and improving my coding skills day by day.
+
+---
+
+## 🔧 Technologies & Skills
+
+* 🐍 **Python**
+* 🌐 **HTML, CSS, JavaScript**
+* 📚 Currently exploring **Web Development**
+* 🤖 Interested in **AI, Automation & Coding Basics**
+
+---
+
+## 😄 Fun Facts
+
+* 🌱 I'm a curious learner
+* 🎯 Always excited to try new tech
+* ☕ Code + Coffee = Perfect Combo
+
+---
+
+## 📌 Goals for 2025
+
+* Build my first full portfolio website
+* Learn JavaScript deeply
+* Start contributing to open-source
+* Complete at least 20 mini-projects
+
+---
+
+### ⭐ *Thanks for visiting my profile!*
+
+Feel free to explore my repositories and connect with me 😊
