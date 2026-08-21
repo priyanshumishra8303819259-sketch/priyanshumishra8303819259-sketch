@@ -1,14 +1,14 @@
 # 👋 Hi, I'm **Priyanshu Mishra**
 
-### 🎓 First Year Student • Lovely Professional University
+### 🎓 second Year Student • Lovely Professional University
 
-### 💻 Learning Python • HTML • CSS • JavaScript
+### 💻 Learning c++, machine Learning, Python
 
 ---
 
 ## 🚀 About Me
 
-I'm a fresher at **LPU** exploring the world of programming and development.
+I am a second year B.tech CSE student at lpu.
 I enjoy building small projects, learning new concepts, and improving my coding skills day by day.
 
 ---
@@ -26,16 +26,15 @@ I enjoy building small projects, learning new concepts, and improving my coding 
 
 * 🌱 I'm a curious learner
 * 🎯 Always excited to try new tech
-* ☕ Code + Coffee = Perfect Combo
 
 ---
 
-## 📌 Goals for 2025
+## 📌 Goals for 2026
 
-* Build my first full portfolio website
-* Learn JavaScript deeply
+* Learn Machine Learning
+* Learn C++
 * Start contributing to open-source
-* Complete at least 20 mini-projects
+* Complete at least 3-4 good projects
 
 ---
 
