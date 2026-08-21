@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Pritanshu Mishra**
+# 👋 Hi, I'm **Priyanshu Mishra**
 
 ### 🎓 First Year Student • Lovely Professional University
 
